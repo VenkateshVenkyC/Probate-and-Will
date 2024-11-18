@@ -116,3 +116,23 @@ John passes away, leaving a will that states his house goes to his son, Mark.
 - Title examiners play a crucial role in ensuring that the property title is clear and marketable before transfer.  
 
 By properly addressing probate and will-related issues, potential title disputes can be avoided, ensuring smooth property transactions.
+
+A **will** is a legal document that expresses a person's wishes regarding the distribution of their assets and property after their death. It can also include instructions on the guardianship of minor children or dependents. The person who creates the will is called the **testator**, and the individuals or entities who receive the assets are known as **beneficiaries**. The will is often executed and administered through a legal process called **probate**.
+
+### Key Components of a Will:
+1. **Executor**: The person appointed by the testator to carry out the instructions of the will and manage the estate after the testator's death. The executor is responsible for ensuring that debts and taxes are paid and that assets are distributed according to the will.
+   
+2. **Beneficiaries**: Individuals, organizations, or entities named in the will to receive a portion of the testator's estate, which could include real estate, money, personal belongings, or other assets.
+
+3. **Bequests**: Specific gifts or inheritances left to beneficiaries. These can include money, property, or personal items.
+
+4. **Guardianship Provisions**: If the testator has minor children or dependents, the will may name a guardian to take care of them if both parents pass away.
+
+### Importance of a Will in Real Estate:
+- **Transfer of Property**: A will is a crucial document for transferring real estate and other assets to beneficiaries. If the property owner passes away and there is a will, the property is distributed according to the instructions in the will.
+- **Clear Title**: After the will is probated, the executor transfers ownership of the property to the designated beneficiary, ensuring that the title is updated to reflect the new ownership.
+
+### What Happens Without a Will (Intestate)?
+If a person dies **without a will** (intestate), their estate is distributed according to state intestacy laws, which often prioritize immediate family members such as spouses and children. This can complicate the title transfer process, especially if there are multiple heirs or disputes among them.
+
+In the context of **title searches** and **examiner roles**, ensuring that any property left in a will has gone through probate properly is critical to confirm clear title before any sale or transfer of the property.
