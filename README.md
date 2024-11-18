@@ -119,7 +119,7 @@ By properly addressing probate and will-related issues, potential title disputes
 
 A **will** is a legal document that expresses a person's wishes regarding the distribution of their assets and property after their death. It can also include instructions on the guardianship of minor children or dependents. The person who creates the will is called the **testator**, and the individuals or entities who receive the assets are known as **beneficiaries**. The will is often executed and administered through a legal process called **probate**.
 
-### Key Components of a Will:
+## Key Components of a Will:
 1. **Executor**: The person appointed by the testator to carry out the instructions of the will and manage the estate after the testator's death. The executor is responsible for ensuring that debts and taxes are paid and that assets are distributed according to the will.
    
 2. **Beneficiaries**: Individuals, organizations, or entities named in the will to receive a portion of the testator's estate, which could include real estate, money, personal belongings, or other assets.
